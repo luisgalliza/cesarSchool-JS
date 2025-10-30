@@ -2,7 +2,7 @@
 
 ## Este repositório contém as resoluções dos exercícios de JavaScript.
 ### obs:  No VsCode eu fiz a questão 10, só que na hora de passar para o GitHub ela sumiu, então coloquei ela isolada. Caso não apareça, vou colocar aqui o código.
-<br/>
+
 10) function somar(a, b) {
   return a + b;
 }
