@@ -1,4 +1,4 @@
-# 🧠 Atividade em JavaScript — CESAR School 🇧🇷
+# 🧠 Atividade em JavaScript — CESAR School | 🇧🇷
 
 Este repositório contém uma atividade acadêmica desenvolvida na **CESAR School**, utilizando **exclusivamente JavaScript**, com o objetivo de praticar lógica de programação e manipulação de dados.
 
@@ -28,7 +28,7 @@ Atividade realizada como parte do aprendizado inicial de **programação em Java
 
 ---
 
-# 🧠 JavaScript Activity — CESAR School 🇺🇸
+# 🧠 JavaScript Activity — CESAR School | 🇺🇸
 
 This repository contains an **academic activity** developed at **CESAR School**, using **exclusively JavaScript**, with the goal of practicing **programming logic** and **data manipulation**.
 
